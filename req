@@ -1,0 +1,26 @@
+Update-1 home
+	image,title1,title2,title3,title4,desc
+
+Update-2 About
+	title,desc,name,email,age,address,resume pdf,count title,count no,count title,count no,count title,count no,count title,count no
+
+Crud-1 services
+	icons,title,desc
+
+Crud-2 Education
+	year,degre,uni,desc
+
+Crud-3 Experience
+	year,posi,comp,desc
+
+Crud-4 Skills
+	tech,per
+
+Crud-5 My Work
+	image,title,desc
+
+crud-6 Client 
+	msg,photo,name,position
+
+Update-3 contact
+	address,mobile,email,fc,ins,you,tw
